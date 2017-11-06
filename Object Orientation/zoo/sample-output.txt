@@ -1,0 +1,256 @@
+Python 3.2 (r32:88445, Oct 20 2012, 14:09:29) 
+[GCC 4.5.2] on linux2
+Type "copyright", "credits" or "license()" for more information.
+==== No Subprocess ====
+>>> 
+      WELCOME TO THE
+_______  _______  _______ 
+/ ___   )(  ___  )(  ___  )
+\/   )  || (   ) || (   ) |
+    /   )| |   | || |   | |
+   /   / | |   | || |   | |
+  /   /  | |   | || |   | |
+ /   (_/\| (___) || (___) |
+(_______/(_______)(_______)
+                           
+Animals:
+* bear
+* beaver
+* cockatoo
+* duck
+* elephant
+* fish
+* gorilla
+* rabbit
+* stork
+* vulture
+>>> bear.visit()
+
+Visiting  bear
+              (\\  _                      ___
+             .-"`"(\\                _.""`   `"-.
+            /      ` `-._        _.-"            `\__
+           6   6)        `-.__.-'                    `",
+          /                                         `;-`
+         /     ,                                     |
+        ()    /  /`                                  |
+         `---`"~``\                                  |
+                   \                                 |
+                    \            \      /           /
+                    /`,   ,      |     |           /
+                   /   "-.|      |     |         /'
+                  /     / |     /,__   |       /`\
+             jgs /    /'  |    /    `"'\      (   \
+              __/   /'    |   |         `\     \   \
+              \    /      |   |           `\    \   \
+               `-,/      /    |            /     |-"`
+                        `"""^^^           `^^""""`
+NAME:  bear
+INFORMATION:
+Animal <can eat(), sleep()>
+   |
+   ---- Mammal
+
+
+>>> bear.sleep()
+I am a bear and - yawn... ~~~~ ZZZzzzz ~~~~
+>>> cockatoo.visit()
+
+Visiting  cockatoo
+          _/       `. 
+       ,'' . O       \ 
+      / ,-. \      '`|_ 
+      |/--._/` _     \ '. 
+      '   /'-|/ \|`\|-`  \ 
+         /   /       \   | 
+         |  ;    '`  |  .' 
+         '. |;;      ;  / 
+          \ \ ;     / ,' 
+           ;--,   .,--, 
+      mx__||=|=|./|=|=||___ 
+          `'-'-'  `-'-'` 
+  ___________________________ 
+              | |  | 
+              | |  | [TM] 
+              | |  | 
+              + |  | 
+              \|\  / 
+               | || 
+               | || 
+               | || 
+               | || 
+               | || 
+               \ \/ 
+                || 
+                 | 
+                 | 
+
+NAME:  cockatoo
+INFORMATION:
+Animal <can eat(), sleep()>
+   |
+   ---- Bird <can fly()>
+         |
+         ---- Land Bird
+
+
+>>> cockatoo.fly()
+I am a cockatoo and I am ~~~~ FLYING!! ~~~~
+>>> vulture.visit()
+
+Visiting  vulture
+            ,---,_ 
+         ,'" -o.  `. 
+        (,----      `. 
+             \        \ 
+             ;      __ --._ 
+           ," \` \`-`,--._ `. 
+          /     ` ` /        `. 
+         : (       (           \ 
+         :  \       \           \ 
+          \  \       \           \ 
+           \  \     , \.          ; 
+            \  \   :   `:.        | 
+             `. \  :    `::.     ,| 
+  -hrr-        ` \  \     \ `---'  \ 
+                  :-|\  __ `. `.`.  \ 
+                  | | `| \"" `       \ 
+    __,------- ,--; |,-' |\_.__\      \ 
+  -"          (  / (  /- |__    `. `-.' 
+  ----""""""`----.__`_`     `-._  `-' 
+                      `--.__    `-. 
+                            `-.    `. 
+                               `. 
+NAME:  vulture
+INFORMATION:
+Animal <can eat(), sleep()>
+   |
+   ---- Bird <can fly()>
+         |
+         ---- Land Bird
+
+
+>>> vulture.eat()
+I am a vulture and I am ~~~~ EATING!! ~~~~
+>>> display_zoo()
+      WELCOME TO THE
+_______  _______  _______ 
+/ ___   )(  ___  )(  ___  )
+\/   )  || (   ) || (   ) |
+    /   )| |   | || |   | |
+   /   / | |   | || |   | |
+  /   /  | |   | || |   | |
+ /   (_/\| (___) || (___) |
+(_______/(_______)(_______)
+                           
+Animals:
+* bear
+* beaver
+* cockatoo
+* duck
+* elephant
+* fish
+* gorilla
+* rabbit
+* stork
+* vulture
+>>> rabbit.visit()
+
+Visiting  rabbit
+             /`\
+            / : |
+   _.._     | '/
+ /`    \    | /
+|  .-._ '-"` (
+|_/   /   o  o\
+      |  =  () )=
+       \  '--`/
+       / ---<`
+      | ,    \\
+      | |     \\__
+      / ;     |.__)
+     (_/.-.   ;
+    { `|   \_/
+     '-\   / |
+        | /  |
+       /  \  '-.
+  jgs  \__|----'
+
+NAME:  rabbit
+INFORMATION:
+Animal <can eat(), sleep()>
+   |
+   ---- Mammal
+         |
+         ---- Rodent <can gnaw()>
+
+
+>>> rabbit.gnaw()
+I am a rabbit and I am *** GNAWING ****
+>>> rabbit.sleep()
+I am a rabbit and - yawn... ~~~~ ZZZzzzz ~~~~
+>>> duck.visit()
+
+Visiting  duck
+                 .-""-.
+                /      \
+               /     (0 \______
+               |         "_____)
+               \        ,-----' 
+                \_    _/
+                 /    \
+                /      \
+               /        \
+              /          |
+             /        :  |
+            /     ;   :  |
+   \\\     /  _.-'    :  |
+    \\\\  / _'        :  |
+     \\\\/ ;         :   /
+      \\  ;         :   /
+       \   `._`-'_.'  _/
+        \     ''' _.-' 
+         \      / /
+     jgs  \    / /  
+           \  /)(_______
+            )(_________< 
+           (__________< 
+
+NAME:  duck
+INFORMATION:
+Animal <can eat(), sleep()>
+   |
+   ---- Bird <can fly()>
+         |
+         ---- Water Bird <can swim()>
+
+
+>>> duck.swim()
+I am a duck and I am ~~~~ SWIMMING!! ~~~~
+>>> fish.visit()
+
+Visiting  fish
+                    /   \          /          \
+                 __/_/_/_\________/ / / /  /   \
+          ,,----'                 ------  / /   \           _
+        ,/   ) ) ) ) ) ) ) ) ) ) ) ) ) ) )\/ /  /        ,/' \
+    ./''  ,\  ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )\ /       /'  /  \
+ ./''  O , ,\) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )------' / / / /
+ (____ , , , ,|) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )----- /
+ \.  \ , , , | ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ----- \
+   `\.   ___/ ) )_______  ) ) ) ) ) ) ) ) ) ) ) ------. \ \ \ \
+      ``\..) ) ) )______\) ) ) ) ) ) ) ) ) ) /         \.  \  /
+           `\..    _____/ ) ) ) ) ) ) ) ) /--__          `\._/
+               ``\________________------'''\   \
+                   \ \ \/           \  \  \ \  /
+                    \__/             \________/  Carl Pilcher
+NAME:  fish
+INFORMATION:
+Animal <can eat(), sleep()>
+         |
+         ---- Fish <can swim()>
+
+
+>>> fish.eat()
+I am a fish and I am ~~~~ EATING!! ~~~~
+>>> 

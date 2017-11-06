@@ -1,0 +1,46 @@
+Welcome to the Python Bank!
+Create an account for John:
+Create an account for Jane:
+John deposits $2000
+ACCOUNT:
+Account ID:1
+Holder:John Doe
+Balance: 2000
+
+Jane deposits $500
+ACCOUNT:
+Account ID:2
+Holder:Jane Doe
+Balance: 500
+
+Apply interest:
+ACCOUNT:
+Account ID:1
+Holder:John Doe
+Balance: 2030.0
+
+ACCOUNT:
+Account ID:2
+Holder:Jane Doe
+Balance: 507.5
+
+Set holder of John's account to Joe Average
+ACCOUNT:
+Account ID:1
+Holder:Joe Average
+Balance: 2030.0
+
+Joe withdraws $2500
+Joe gets: 2500
+ACCOUNT:
+Account ID:1
+Holder:Joe Average
+Balance: -470.0
+
+Jane withdraws $2500
+Jane gets: 1507.5
+ACCOUNT:
+Account ID:2
+Holder:Jane Doe
+Balance: -1000.0
+

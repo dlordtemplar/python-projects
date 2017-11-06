@@ -1,0 +1,55 @@
+<HEAD TYPE="MAIN" TEIFORM="head">
+  <S N="1" P="N" TEIFORM="s">
+    <W TYPE="NN1" TEIFORM="w">FACTSHEET </W>
+    <W TYPE="DTQ" TEIFORM="w">WHAT </W>
+    <W TYPE="VBZ" TEIFORM="w">IS </W>
+    <W TYPE="NN1" TEIFORM="w">AIDS</W>
+    <C TYPE="PUN" TEIFORM="c">?</C>
+  </S>
+</HEAD>
+<P TEIFORM="p">
+  <S N="2" P="N" TEIFORM="s">
+    <HI REND="bo" TEIFORM="hi">
+      <W TYPE="NN1" TEIFORM="w">AIDS </W>
+      <C TYPE="PUL" TEIFORM="c">(</C>
+      <W TYPE="VVN-AJ0" TEIFORM="w">Acquired </W>
+      <W TYPE="AJ0" TEIFORM="w">Immune </W>
+      <W TYPE="NN1" TEIFORM="w">Deficiency </W>
+      <W TYPE="NN1" TEIFORM="w">Syndrome</W>
+      <C TYPE="PUR" TEIFORM="c">) </C>
+    </HI>
+    <W TYPE="VBZ" TEIFORM="w">is </W>
+    <W TYPE="AT0" TEIFORM="w">a </W>
+    <W TYPE="NN1" TEIFORM="w">condition </W>
+    <W TYPE="VVN" TEIFORM="w">caused </W>
+    <W TYPE="PRP" TEIFORM="w">by </W>
+    <W TYPE="AT0" TEIFORM="w">a </W>
+    <W TYPE="NN1" TEIFORM="w">virus </W>
+    <W TYPE="VVN" TEIFORM="w">called </W>
+    <W TYPE="NP0" TEIFORM="w">HIV </W>
+    <C TYPE="PUL" TEIFORM="c">(</C>
+    <W TYPE="AJ0-NN1" TEIFORM="w">Human </W>
+    <W TYPE="NN1" TEIFORM="w">Immuno </W>
+    <W TYPE="NN1" TEIFORM="w">Deficiency </W>
+    <W TYPE="NN1" TEIFORM="w">Virus</W>
+    <C TYPE="PUR" TEIFORM="c">)</C>
+    <C TYPE="PUN" TEIFORM="c">.</C>
+  </S>
+  <S N="3" P="N" TEIFORM="s">
+    <W TYPE="DT0" TEIFORM="w">This </W>
+    <W TYPE="NN1" TEIFORM="w">virus </W>
+    <W TYPE="VVZ" TEIFORM="w">affects </W>
+    <W TYPE="AT0" TEIFORM="w">the </W>
+    <W TYPE="NN1" TEIFORM="w">body</W>
+    <W TYPE="POS" TEIFORM="w">'s </W>
+    <W TYPE="NN1" TEIFORM="w">defence </W>
+    <W TYPE="NN1" TEIFORM="w">system </W>
+    <W TYPE="CJS" TEIFORM="w">so that </W>
+    <W TYPE="PNP" TEIFORM="w">it </W>
+    <W TYPE="VM0" TEIFORM="w">can</W>
+    <W TYPE="XX0" TEIFORM="w">not </W>
+    <W TYPE="VVI" TEIFORM="w">fight </W>
+    <W TYPE="NN1" TEIFORM="w">infection</W>
+    <C TYPE="PUN" TEIFORM="c">.</C>
+  </S>
+</P>

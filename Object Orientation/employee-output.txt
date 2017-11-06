@@ -1,0 +1,18 @@
+Create employee 'John Doe', born January 1st, 1990
+  Created: John Doe, born 1990-01-01, teaches no courses
+Create employee 'Jane Doe', born August 10, 1992
+  Created: Jane Doe, born 1992-08-10, teaches no courses
+Add 'Python I' to John Doe's courses
+  John: John Doe, born 1990-01-01, teaches Python I
+Add 'Introduction to Semantics' to John Doe's courses
+  John: John Doe, born 1990-01-01, teaches Python I, Introduction to Semantics
+Add 'Python I' to Jane Doe's courses
+  Jane: Jane Doe, born 1992-08-10, teaches Python I
+Is John avaliable for a meeting on Monday at 11h?
+False
+Is Jane avaliable for a meeting on Monday at 11h?
+True
+Is John avaliable for a meeting on Tuesday at 13h?
+False
+Is John avaliable for a meeting on Tuesday at 15h?
+True
