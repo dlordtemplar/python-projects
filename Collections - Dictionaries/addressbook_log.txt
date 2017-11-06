@@ -1,0 +1,199 @@
+Python 3.2 (r32:88445, Oct 20 2012, 14:09:29) 
+[GCC 4.5.2] on linux2
+Type "copyright", "credits" or "license()" for more information.
+==== No Subprocess ====
+>>> 
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 1
+Nickname: Stefan
+Field: Last Name
+Value: Thater
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 1
+Nickname: Stefan
+Field: E-Mail
+Value: stth@coli.uni-saarland.de
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 1
+Nickname: Stefan
+Field: Office Phone
+Value: 4496
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 1
+Nickname: Anne
+Field: Last Name
+Value: Friedrich
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 1
+Nickname: Anne
+Field: First Name
+Value: Friedrich
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 1
+Nickname: Anne
+Field: Cell Phone
+Value: 012345678
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 2
+Nickname: Stefan
+************************************************** 
+NICKNAME:		 Stefan
+E-Mail 		 stth@coli.uni-saarland.de
+Last Name 		 Thater
+Office Phone 		 4496
+**************************************************
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 3
+Nickname: Anne
+Field: Cell Phone
+Cell Phone 		 012345678
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 3
+Nickname: Office Phone
+Field: blah
+No entry for Office Phone
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 3
+Nickname: Anne
+Field: Office Phone
+No information about Anne 's Office Phone
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 6
+************************************************** 
+NICKNAME:		 Anne
+Cell Phone 		 012345678
+First Name 		 Friedrich
+Last Name 		 Friedrich
+**************************************************
+************************************************** 
+NICKNAME:		 Stefan
+E-Mail 		 stth@coli.uni-saarland.de
+Last Name 		 Thater
+Office Phone 		 4496
+**************************************************
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 5
+Nickname: Stefan
+Field: Office Phone
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 6
+************************************************** 
+NICKNAME:		 Anne
+Cell Phone 		 012345678
+First Name 		 Friedrich
+Last Name 		 Friedrich
+**************************************************
+************************************************** 
+NICKNAME:		 Stefan
+E-Mail 		 stth@coli.uni-saarland.de
+Last Name 		 Thater
+**************************************************
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 4
+Nickname: Stefan
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 6
+************************************************** 
+NICKNAME:		 Anne
+Cell Phone 		 012345678
+First Name 		 Friedrich
+Last Name 		 Friedrich
+**************************************************
+1 - Add / Update contact information
+2 - Show contact information
+3 - Show field information for contact
+4 - Delete a contact
+5 - Delete a field of information
+6 - Show the whole address book
+Press ENTER to leave.
+>> 
